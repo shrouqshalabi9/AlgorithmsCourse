@@ -1,0 +1,5 @@
+functionfactorial(n):
+ ifn is 0:
+ return1
+ else:
+ returnn *factorial(n -1)
